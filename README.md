@@ -1,4 +1,4 @@
-# Olá! Bem-vindo ao meu portfólio de Catiane Marinho
+# Olá! Bem-vindo(a) ao portfólio de Catiane Marinho
 
 ## 💫 About Me:
 Sou entusiasta e apaixonada por programação, com foco principal na linguagem Python. Neste repositório, você encontrará alguns dos meus projetos e trabalhos relacionados a Python. Sinta-se à vontade para explorar e utilizar os códigos como referência ou aprendizado.
@@ -40,10 +40,7 @@ Sabia que a linguagem Python foi batizada em homenagem ao grupo humorístico bri
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=catianemarinho&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
