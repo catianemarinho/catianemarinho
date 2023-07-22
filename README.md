@@ -1,7 +1,7 @@
 # Olá! Bem-vindo(a) ao portfólio de Catiane Marinho
 
 ## 💫 About Me:
-Sou entusiasta e apaixonada por programação, com foco principal na linguagem Python. Neste repositório, você encontrará alguns dos meus projetos e trabalhos relacionados a Python. Sinta-se à vontade para explorar e utilizar os códigos como referência ou aprendizado.
+Sou entusiasta e apaixonada por programação, com foco principal na linguagem Python e API REST. Neste repositório, você encontrará alguns dos meus projetos e trabalhos relacionados. Sinta-se à vontade para explorar e utilizar os códigos como referência ou aprendizado.
 
 ### 👨‍💻 Atualmente estou trabalhando em:
 
@@ -17,11 +17,11 @@ Se você também é apaixonado por Python e tem experiência com projetos desafi
 
 ### 🌱 Atualmente estou aprendendo:
 
-Embora seja um entusiasta experiente em Python, acredito que sempre há algo novo para aprender. No momento, estou focado em expandir meus conhecimentos em áreas como desenvolvimento de software, análise e ciência de dados, automação de tarefas e desenvolvimento web com frameworks como Django e Flask.
+Embora seja um entusiasta experiente em Python, acredito que sempre há algo novo para aprender. No momento, estou focado em expandir meus conhecimentos em áreas como desenvolvimento de software, análise e ciência de dados, automação de tarefas, desenvolvimento web com frameworks como Django e arquitetura API REST.
 
 ### 💬 Pergunte-me sobre:
 
-Você pode me perguntar sobre qualquer coisa relacionada a Python. Estou aqui para compartilhar conhecimento e ajudá-lo a superar qualquer obstáculo que esteja enfrentando em seus próprios projetos.
+Você pode me perguntar sobre qualquer coisa relacionada a Python e API REST. Estou aqui para compartilhar conhecimento e ajudá-lo a superar qualquer obstáculo que esteja enfrentando em seus próprios projetos.
 
 ### ⚡ Curiosidade divertida:
 
