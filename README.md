@@ -1,3 +1,6 @@
+# Olá! Bem-vindo ao meu portfólio de Catiane Marinho
+
+## 💫 About Me:
 Sou entusiasta e apaixonada por programação, com foco principal na linguagem Python. Neste repositório, você encontrará alguns dos meus projetos e trabalhos relacionados a Python. Sinta-se à vontade para explorar e utilizar os códigos como referência ou aprendizado.
 
 ### 👨‍💻 Atualmente estou trabalhando em:
